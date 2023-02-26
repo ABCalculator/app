@@ -6,3 +6,5 @@
 
 *.md linguist-detectable=true
 *.md linguist-documentation=false
+README.md linguist-detectable=true
+README.md linguist-documentation=false
