@@ -1,3 +1,8 @@
+### v0.14
+
+- bugfix for `cos()` function
+- add `Degree to Radian` and `Radian to Degree`
+
 ### v0.13
 
 - refactor GUI
