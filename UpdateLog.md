@@ -1,3 +1,7 @@
+### v0.15
+
+- fix issue #2 
+
 ### v0.14
 
 - bugfix for `cos()` function
