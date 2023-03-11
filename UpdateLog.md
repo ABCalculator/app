@@ -1,3 +1,7 @@
+### v0.18
+
+- fix issue #8 
+
 ### v0.17
 
 - fix issue #4 
